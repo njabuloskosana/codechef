@@ -1,0 +1,14 @@
+C:\Users\njabulo\Documents\github\codechef\CodeChefProblem1\bin\Debug\netcoreapp3.1\CodeChefProblem1.exe
+C:\Users\njabulo\Documents\github\codechef\CodeChefProblem1\bin\Debug\netcoreapp3.1\CodeChefProblem1.deps.json
+C:\Users\njabulo\Documents\github\codechef\CodeChefProblem1\bin\Debug\netcoreapp3.1\CodeChefProblem1.runtimeconfig.json
+C:\Users\njabulo\Documents\github\codechef\CodeChefProblem1\bin\Debug\netcoreapp3.1\CodeChefProblem1.runtimeconfig.dev.json
+C:\Users\njabulo\Documents\github\codechef\CodeChefProblem1\bin\Debug\netcoreapp3.1\CodeChefProblem1.dll
+C:\Users\njabulo\Documents\github\codechef\CodeChefProblem1\bin\Debug\netcoreapp3.1\CodeChefProblem1.pdb
+C:\Users\njabulo\Documents\github\codechef\CodeChefProblem1\obj\Debug\netcoreapp3.1\CodeChefProblem1.csproj.AssemblyReference.cache
+C:\Users\njabulo\Documents\github\codechef\CodeChefProblem1\obj\Debug\netcoreapp3.1\CodeChefProblem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\njabulo\Documents\github\codechef\CodeChefProblem1\obj\Debug\netcoreapp3.1\CodeChefProblem1.AssemblyInfoInputs.cache
+C:\Users\njabulo\Documents\github\codechef\CodeChefProblem1\obj\Debug\netcoreapp3.1\CodeChefProblem1.AssemblyInfo.cs
+C:\Users\njabulo\Documents\github\codechef\CodeChefProblem1\obj\Debug\netcoreapp3.1\CodeChefProblem1.csproj.CoreCompileInputs.cache
+C:\Users\njabulo\Documents\github\codechef\CodeChefProblem1\obj\Debug\netcoreapp3.1\CodeChefProblem1.dll
+C:\Users\njabulo\Documents\github\codechef\CodeChefProblem1\obj\Debug\netcoreapp3.1\CodeChefProblem1.pdb
+C:\Users\njabulo\Documents\github\codechef\CodeChefProblem1\obj\Debug\netcoreapp3.1\CodeChefProblem1.genruntimeconfig.cache
